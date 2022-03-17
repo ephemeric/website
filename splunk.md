@@ -1,5 +1,12 @@
 # Splunk and Secure by Default Deployments
 
+### Ports
+
+### Filesystem
+
+### User
+Accounts are either user or system with the latter normally <= UID 999.
+
 ```
 ls -al
 ```
