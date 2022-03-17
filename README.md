@@ -52,7 +52,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         repo="ephemeric/website"
         issue-term="pathname"
         label="Comment"
-        theme="github-light"
+        theme="github-dark"
         crossorigin="anonymous"
         async>
 </script>
