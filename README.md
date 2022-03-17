@@ -47,3 +47,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### slobwashere
 
 ### robert
+
+<script src="https://utteranc.es/client.js"
+        repo="ephemeric/website"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
