@@ -45,4 +45,4 @@ In other words: less is more.
 
 [How Complex Systems Fail](https://how.complexsystems.fail)
 
-![Image](https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png)
+<!--![Image](https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png)-->
