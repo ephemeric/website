@@ -1,37 +1,6 @@
-<!-- (This is an HTML comment). Copy and paste this entire HTML `<style>...</style>` element (block)
-to the top of your markdown file -->
-<style>
-/* (This is a CSS comment). The below `img` style sets the default CSS styling for all images
-hereafter in this markdown file. */
-img
-{
-    /* Default display value is `inline-block`. Set it to `block` to prevent surrounding text from
-    wrapping around the image. Instead, `block` format will force the text to be above or below the
-    image, but never to the sides. */
-    display:block;
-    /* Common float options are `left`, `right`, and `none`. Set to `none` to override any previous
-    settings which might have been `left` or `right`. `left` causes the image to be to the left,
-    with text wrapped to the right of the image, and `right` causes the image to be to the right,
-    with text wrapped to its left, so long as `display:inline-block` is also used. */
-    float:none;
-    /* Set both the left and right margins to `auto` to cause the image to be centered. */
-    margin-left:auto;
-    margin-right:auto;
-    /* You may also set the size of the image, in percent of width of the screen on which the image
-    is being viewed, for example. A good starting point is 60%. It will auto-scale and auto-size
-    the image no matter what screen or device it is being viewed on, maintaining proporptions and
-    not distorting it. */
-    width:60%;
-    /* You may optionally force a fixed size, or intentionally skew/distort an image by also
-    setting the height. Values for `width` and `height` are commonly set in either percent (%)
-    or pixels (px). Ex: `width:100%;` or `height:600px;`. */
-    /* height:400px; */
-}
-</style>
-
 ## Simplicity
 
-In today's obsessed world with the next new shiny and the general population suffering from nemania, it's time for a breath of fresh air...
+In today's obsessed world with the next new shiny and the general population suffering from neomania, it's time for a breath of fresh air...
 
 "Simplicity is the ultimate sophistication." - Leonardo da Vinci
 
@@ -43,6 +12,35 @@ In other words: less is more.
 
 ### Articles
 
+A list of meticulously curated reading material that has been (mostly) ignored by today's generations. One needs to first consider what problems are introduced by all the "modern" solutions (personally, I immediately put up a defense upon encountering this word) as opposed to what they promise to fix.
+
+* Complexity is the enemy of security.
 [How Complex Systems Fail](https://how.complexsystems.fail)
 
-<!--![Image](https://newfastuff.com/wp-content/uploads/2019/05/bW7QXVB.png)-->
+* Not everybody is attracted to the glowing orb that is Kubernetes.
+[No, we don’t use Kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
+
+* The UNIX antipattern that SystemD is.
+[Boycott SystemD](https://web.archive.org/web/20140909093139/http://boycottsystemd.org/)
+
+### UNIX
+
+The acme of simplicity and usability. Let us go back to 1969 and start over. An enduring OS, created by some of the best hackers that ever lived: Ken Thompson, Dennis Ritchie, Douglas McIlroy, Rob Pike, Brian Kernighan et al.
+
+* A facinating read always.
+[History of Unix](https://en.wikipedia.org/wiki/History_of_Unix)
+
+* Eric Raymond, one of the most influential hackers along with Richard Stallman.
+[Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+
+* Loads of good information and interesting links.
+[Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+
+### Books
+
+I have read close to 200 books over a twenty year period. All below recommendations have been carefully considered.
+
+* Its central theme is that "adding manpower to a late software project makes it later."
+[The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+
+<div style="text-align: center;">Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.</div>
