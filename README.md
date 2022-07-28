@@ -43,4 +43,4 @@ I have read close to 200 books over a twenty year period. All below recommendati
 * Its central theme is that "adding manpower to a late software project makes it later."  
 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
-<div style="text-align: center;">Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.</div>
+<div style="text-align:center; color:blue">Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.</div>
