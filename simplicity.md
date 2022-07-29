@@ -1,4 +1,4 @@
-## [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md)
+### [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md) [[Miscellaneous]](miscellaneous.md)
 
 In today's obsessed world with the next new shiny and the general population suffering from neomania, it's time for a breath of fresh air...
 
@@ -30,4 +30,4 @@ I have read close to 200 books over a twenty year period. All recommendations ha
 * Its central theme is that "adding manpower to a late software project makes it later."  
 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
-<div style="text-align:center; color:#666666; font-size:18px">Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.</div>
+### [Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.]

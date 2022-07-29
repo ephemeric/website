@@ -1,4 +1,4 @@
-## [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md)
+### [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md) [[Miscellaneous]](miscellaneous.md)
 
 Accidental complexity is when something can be less complex, be refactored and still retain the same output whilst adding value at the same time.
 
@@ -16,4 +16,4 @@ From Docker to service meshes, we have learnt to throw out simplicity to make us
 
 ...
 
-<div style="text-align:center; color:#666666; font-size:18px">Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.</div>
+### [Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.]
