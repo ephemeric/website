@@ -1,6 +1,6 @@
 ### [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md) [[Miscellaneous]](miscellaneous.md)
 
-"Neomania, defined as an obsession with the new, is a hallmark of American culture. You won't find it in the dictionary, but you'll see it in the faces of everyone waiting for the next iPhone or Android. You might even catch it in the reflection of your smart phone as you scroll through the news." [1]
+"Neomania, defined as an obsession with the new, is a hallmark of American culture. You won't find it in the dictionary, but you'll see it in the faces of everyone waiting for the next iPhone or Android. You might even catch it in the reflection of your smart phone as you scroll through the news." [1]([1])
 
 ### Articles
 
@@ -16,6 +16,6 @@ We don't all need (or want) the latest and greatest. Keeping up with the Joneses
 
 [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
 
-[1](https://www.entrepreneur.com/article/290746)
+[[1]](https://www.entrepreneur.com/article/290746)
 
 ### [Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.]
