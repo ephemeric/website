@@ -12,27 +12,20 @@ In other words: less is more.
 
 ### Articles
 
-A list of meticulously curated reading material that has been (mostly) ignored by today's generations. One needs to first consider what problems are introduced by all the "modern" solutions (personally, I immediately put up a defense upon encountering this word) as opposed to what they promise to fix.
+A list of meticulously curated reading material that has been (mostly) ignored by today's generations. One needs to first consider what problems are introduced by all the "modern" solutions as opposed to what they promise to fix.
 
-* Not everybody is attracted to the glowing orb that is Kubernetes.  
-[No, we don’t use Kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
-
-### UNIX
-
-The acme of simplicity and usability. Let us go back to 1969 and start over. An enduring OS, created by some of the best hackers that ever lived: Ken Thompson, Dennis Ritchie, Douglas McIlroy, Rob Pike, Brian Kernighan et al.
-
-* A facinating read always.  
+* UNIX: the acme of simplicity and usability. Let us go back to 1969 and start over. An enduring OS, created by some of the best hackers that ever lived: Ken Thompson, Dennis Ritchie, Douglas McIlroy, Rob Pike, Brian Kernighan et al.  
 [History of Unix](https://en.wikipedia.org/wiki/History_of_Unix)
-
-* Eric Raymond, one of the most influential hackers along with Richard Stallman.  
-[Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
 
 * Loads of good information and interesting links.  
 [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
 
+* Eric Raymond, one of the most influential hackers along with Richard Stallman.  
+[Basics of the Unix Philosophy](http://www.catb.org/~esr/writings/taoup/html/ch01s06.html)
+
 ### Books
 
-I have read close to 200 books over a twenty year period. All below recommendations have been carefully considered.
+I have read close to 200 books over a twenty year period. All recommendations have been carefully considered.
 
 * Its central theme is that "adding manpower to a late software project makes it later."  
 [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
