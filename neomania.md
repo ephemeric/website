@@ -16,4 +16,4 @@ We don't all need (or want) the latest and greatest. Keeping up with the Joneses
 
 [Amusing Ourselves to Death](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death)
 
-[Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.]
+###### [Please report any broken links via GitHub. Suggestions welcome. Polemics unwelcome.]
