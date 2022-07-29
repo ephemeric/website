@@ -6,10 +6,10 @@
 
 We don't all need (or want) the latest and greatest. Keeping up with the Joneses is so like yesteryear.
 
-* Not everybody is attracted to the glowing orb that is Kubernetes.  
+- Not everybody is attracted to the glowing orb that is Kubernetes.  
 [No, we don’t use Kubernetes](https://ably.com/blog/no-we-dont-use-kubernetes)
 
-* The scourge of neomania is everywhere: in IT, cybersecurity, fitness, education, diets etc.  
+- The scourge of neomania is everywhere: in IT, cybersecurity, fitness, education, diets etc.  
 [Neomania is Making Us Crazier (and Less Effective) Teachers](https://davestuartjr.com/neomania/)
 
 ### Books
