@@ -60,7 +60,7 @@ The Rust Butler replies:
 
 > “Very good, sir.”
 
-```bash
+```bash id="p4i3bm"
 uv venv
 ```
 
@@ -70,7 +70,7 @@ The Rust Butler has already installed them.
 
 Python requests another interpreter.
 
-```bash
+```bash id="bg5tyd"
 uv python install 3.14
 ```
 
@@ -96,13 +96,11 @@ Yet decades of Python publishing have apparently concluded:
 
 What Python books really need is surreal British comedy.
 
-Or possibly Steve-O suspended above an alligator enclosure with poultry attached to him.
+And, upon reflection, Python's packaging history already provides plenty of material.
 
-Which, upon reflection, is also a remarkably good metaphor for Python dependency management.
+A sufficiently alarming Python book cover could simply depict an unfortunate programmer surrounded by:
 
-The alligators can be labelled:
-
-```text
+```text id="j0x3au"
 pip
 venv
 PYTHONPATH
@@ -111,7 +109,7 @@ setuptools
 GIL
 ```
 
-Safely on the bank stands the Rust Butler holding `uv`.
+Safely off to one side stands the Rust Butler holding `uv`, wondering why everyone has made this so complicated.
 
 Somewhere in Britain, John Cleese quietly lowers his newspaper, observes the scene, nods approvingly and returns to his tea.
 
@@ -171,15 +169,11 @@ Then the Rust Butler enters carrying a silver tray.
 
 On it:
 
-```bash
+```bash id="h96ik4"
 uv sync
 ```
 
 > “Thank you.”
-
-Through the window, Steve-O passes over the alligator enclosure.
-
-Nobody acknowledges this.
 
 ---
 
@@ -227,7 +221,7 @@ Go:
 
 Go silently produces:
 
-```bash
+```bash id="5ufr2b"
 ./server
 ```
 
@@ -242,8 +236,6 @@ The Rust Butler stares at it.
 Python stares at it.
 
 Bash lowers the pipe wrench.
-
-Steve-O passes the window again.
 
 Finally:
 
@@ -345,7 +337,7 @@ Everyone turns.
 
 Bash types:
 
-```bash
+```bash id="pazrbb"
 printf '%s\n' cheese
 ```
 
@@ -373,7 +365,7 @@ Conceived during a conversation between **Robert Gabriel and Simone (ChatGPT, Op
 
 The original idea grew from a discussion about learning Python for Linux systems administration and custom Ansible modules, followed by Robert's observation that Python books inexplicably feature snakes despite the programming language being named after *Monty Python*. From there things deteriorated rapidly.
 
-Robert introduced the Steve-O/alligator comparison, recognised the natural connection to Monty Python's *Cheese Shop* sketch, and subsequently sent Go and Rust into the shop. Simone developed the dialogue, the **Rust Butler**, Bash with `awk` and a pipe wrench, and the increasingly questionable consequences.
+Robert recognised the natural connection to Monty Python's *Cheese Shop* sketch and subsequently sent Go and Rust into the shop. Simone developed the dialogue, the **Rust Butler**, Bash with `awk` and a pipe wrench, and the increasingly questionable consequences.
 
 Inspired by the premise of Monty Python's *Cheese Shop* sketch. No original Monty Python dialogue is reproduced or intended to be represented as such.
 
