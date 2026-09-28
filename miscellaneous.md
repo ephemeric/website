@@ -36,7 +36,7 @@ Simone can review, explain and challenge the code without becoming the person wh
 
 Eventually the milestone becomes:
 
-> “No, Simone. That's wrong because…”
+> "No, Simone. That's wrong because…"
 
 At that point, Python has done its job.
 
@@ -54,13 +54,13 @@ Thus the **Rust Butler** was born.
 
 Python says:
 
-> “I require another virtual environment.”
+> "I require another virtual environment."
 
 The Rust Butler replies:
 
-> “Very good, sir.”
+> "Very good, sir."
 
-```bash id="p4i3bm"
+```bash
 uv venv
 ```
 
@@ -70,7 +70,7 @@ The Rust Butler has already installed them.
 
 Python requests another interpreter.
 
-```bash id="bg5tyd"
+```bash
 uv python install 3.14
 ```
 
@@ -100,7 +100,7 @@ And, upon reflection, Python's packaging history already provides plenty of mate
 
 A sufficiently alarming Python book cover could simply depict an unfortunate programmer surrounded by:
 
-```text id="j0x3au"
+```text
 pip
 venv
 PYTHONPATH
@@ -123,45 +123,45 @@ Python packaging is essentially **the Cheese Shop sketch**.
 
 A programmer enters.
 
-> “I'd like to install a Python package.”
+> "I'd like to install a Python package."
 
-“Certainly, sir.”
+"Certainly, sir."
 
-> “With `pip`?”
+> "With `pip`?"
 
-“Ah. Which Python installation, sir?”
+"Ah. Which Python installation, sir?"
 
-> “Python 3.”
+> "Python 3."
 
-“Very good. Which Python 3?”
+"Very good. Which Python 3?"
 
-> “The one on my machine.”
+> "The one on my machine."
 
-“Ooooh, wouldn't recommend touching that one, sir.”
+"Ooooh, wouldn't recommend touching that one, sir."
 
-> “Fine. A virtual environment.”
+> "Fine. A virtual environment."
 
-“`venv`, sir?”
+"`venv`, sir?"
 
-> “Yes.”
+> "Yes."
 
-“Externally managed environment, sir.”
+"Externally managed environment, sir."
 
-> “…Poetry?”
+> "…Poetry?"
 
-“Version conflict.”
+"Version conflict."
 
-> “Conda?”
+> "Conda?"
 
-“Wrong environment.”
+"Wrong environment."
 
-> “Pipenv?”
+> "Pipenv?"
 
-“Not much call for it these days, sir.”
+"Not much call for it these days, sir."
 
 Finally:
 
-> **“DO YOU ACTUALLY HAVE A WORKING PYTHON ENVIRONMENT?”**
+> **"DO YOU ACTUALLY HAVE A WORKING PYTHON ENVIRONMENT?"**
 
 Silence.
 
@@ -169,11 +169,11 @@ Then the Rust Butler enters carrying a silver tray.
 
 On it:
 
-```bash id="h96ik4"
+```bash
 uv sync
 ```
 
-> “Thank you.”
+> "Thank you."
 
 ---
 
@@ -195,33 +195,33 @@ Just one enormous executable.
 
 The proprietor looks suspicious.
 
-> “Can I help you, sir?”
+> "Can I help you, sir?"
 
 Go:
 
-> “No.”
+> "No."
 
-> “Would sir require a virtual environment?”
+> "Would sir require a virtual environment?"
 
-“No.”
+"No."
 
-> “Dependencies?”
+> "Dependencies?"
 
-“No.”
+“No."
 
-> “Package manager?”
+> “Package manager?"
 
-“No.”
+“No."
 
-> “Interpreter?”
+> “Interpreter?"
 
-“No.”
+“No."
 
-> “Then what exactly do you require?”
+> “Then what exactly do you require?"
 
 Go silently produces:
 
-```bash id="5ufr2b"
+```bash
 ./server
 ```
 
@@ -239,13 +239,13 @@ Bash lowers the pipe wrench.
 
 Finally:
 
-> “That's disgusting.”
+> “That's disgusting."
 
 Go:
 
-> “I'm 47 megabytes.”
+> “I'm 47 megabytes."
 
-> **“OF COURSE YOU ARE.”**
+> **“OF COURSE YOU ARE."**
 
 ---
 
@@ -257,71 +257,71 @@ Rust walks in.
 
 By now Cleese is exhausted.
 
-> “Oh, very well. What do *you* want?”
+> “Oh, very well. What do *you* want?"
 
 Rust:
 
-> “Nothing.”
+> “Nothing."
 
-“Nothing?”
+“Nothing?"
 
-> “I brought my own cheese.”
+> “I brought my own cheese."
 
 Rust places a small, perfectly wrapped wheel on the counter.
 
 Palin examines it.
 
-> “Memory safe?”
+> “Memory safe?"
 
-“Compile-time guaranteed.”
+“Compile-time guaranteed."
 
-> “Garbage collector?”
+> “Garbage collector?"
 
-“No.”
+“No."
 
-> “Runtime?”
+> “Runtime?"
 
-“No.”
+“No."
 
-> “Data races?”
+> “Data races?"
 
-“Not if I've done this correctly.”
+“Not if I've done this correctly."
 
 The Go binary shifts uncomfortably.
 
-> “How large is it?”
+> “How large is it?"
 
 Rust glances towards Go.
 
-> “Smaller than *his*.”
+> “Smaller than *his*."
 
 Go:
 
-> “Oi.”
+> “Oi."
 
 Python begins quietly moving towards the exit.
 
 Rust notices.
 
-> “Hang on. Who owns that reference?”
+> “Hang on. Who owns that reference?"
 
 Python freezes.
 
-> “…what reference?”
+> “…what reference?"
 
 Rust:
 
-> **“Exactly.”**
+> **“Exactly."**
 
 The Rust Butler approaches Rust, looks him up and down, and gives a respectful bow.
 
 Cleese:
 
-> “You two know each other?”
+> “You two know each other?"
 
 The Butler:
 
-> “We are related, sir.”
+> “We are related, sir."
 
 ---
 
@@ -331,13 +331,13 @@ Throughout all of this, Bash has remained in the corner holding `awk` and a pipe
 
 Finally:
 
-> “You lot finished?”
+> “You lot finished?"
 
 Everyone turns.
 
 Bash types:
 
-```bash id="pazrbb"
+```bash
 printf '%s\n' cheese
 ```
 
@@ -353,7 +353,7 @@ It works.
 
 And somewhere, faintly in the distance:
 
-> “Very good, sir.”
+> "Very good, sir."
 
 The Rust Butler has created another virtual environment.
 
