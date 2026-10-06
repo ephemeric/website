@@ -1,6 +1,5 @@
 ### [[Simplicity]](simplicity.md) [[Complexity]](complexity.md) [[Neomania]](neomania.md) [[Networking]](networking.md) [[Security]](security.md) [[Miscellaneous]](miscellaneous.md)
 
-
 ### Articles
 
 We don't all need (or want) the latest and greatest. Keeping up with the Joneses is so like yesteryear.
